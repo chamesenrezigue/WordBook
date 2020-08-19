@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/WordBook/static/css/main.aba733cd.chunk.css",
+    "main.js": "/WordBook/static/js/main.bc3e3de3.chunk.js",
+    "main.js.map": "/WordBook/static/js/main.bc3e3de3.chunk.js.map",
+    "runtime-main.js": "/WordBook/static/js/runtime-main.c32cc475.js",
+    "runtime-main.js.map": "/WordBook/static/js/runtime-main.c32cc475.js.map",
+    "static/css/2.3660b2bf.chunk.css": "/WordBook/static/css/2.3660b2bf.chunk.css",
+    "static/js/2.42c52d66.chunk.js": "/WordBook/static/js/2.42c52d66.chunk.js",
+    "static/js/2.42c52d66.chunk.js.map": "/WordBook/static/js/2.42c52d66.chunk.js.map",
+    "index.html": "/WordBook/index.html",
+    "precache-manifest.4b122251a6032fbeb43201679b83412a.js": "/WordBook/precache-manifest.4b122251a6032fbeb43201679b83412a.js",
+    "service-worker.js": "/WordBook/service-worker.js",
+    "static/css/2.3660b2bf.chunk.css.map": "/WordBook/static/css/2.3660b2bf.chunk.css.map",
+    "static/css/main.aba733cd.chunk.css.map": "/WordBook/static/css/main.aba733cd.chunk.css.map",
+    "static/js/2.42c52d66.chunk.js.LICENSE.txt": "/WordBook/static/js/2.42c52d66.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/WordBook/static/media/argon-react.f38ddea9.png",
+    "static/media/all.min.css": "/WordBook/static/media/fa-solid-900.cdfec5cf.woff",
+    "static/media/friends.png": "/WordBook/static/media/friends.7fc8f4a8.png",
+    "static/media/nucleo.css": "/WordBook/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile-cover.jpg": "/WordBook/static/media/profile-cover.e2582654.jpg",
+    "static/media/team-1-800x800.jpg": "/WordBook/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-4-800x800.jpg": "/WordBook/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32cc475.js",
+    "static/css/2.3660b2bf.chunk.css",
+    "static/js/2.42c52d66.chunk.js",
+    "static/css/main.aba733cd.chunk.css",
+    "static/js/main.bc3e3de3.chunk.js"
+  ]
+}
